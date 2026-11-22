@@ -1,0 +1,13 @@
+{
+  "agent": "ChatGPT",
+  "task": "Разработка учебного сервиса визуализации данных",
+  "language": "Python",
+  "framework": "Streamlit",
+  "database": "PostgreSQL",
+  "tools": [
+    "Python",
+    "VS Code",
+    "Docker Desktop",
+    "GitHub"
+  ]
+}
